@@ -1,16 +1,9 @@
 # moon
 
-A new Flutter project.
+E-Commerce  APP .
 
-## Getting Started
+## About App
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+	This app use APIs with Bloc state management, it lets users log in or sign up, then store Products, Categories, deals and let users buy by adding to favorites to buy any item at other time or adding to the cart or remove an item, user can add the quantity for the items, add address before order, add order cancel an order, control with profile, contact, search, and other services.
